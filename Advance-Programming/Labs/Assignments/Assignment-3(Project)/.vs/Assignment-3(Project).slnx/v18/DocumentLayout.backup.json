@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Lab-Project\\Lab-Project\\SplashForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|c:\\users\\hec\\documents\\6th semester\\ap\\labs\\assignments\\assignment-3(project)\\assignment-3(project)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|solutionrelative:assignment-3(project)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\assignment-3(project)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|solutionrelative:assignment-3(project)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\assignment-3(project)\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|solutionrelative:assignment-3(project)\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\assignment-3(project)\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|solutionrelative:assignment-3(project)\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\assignment-3(project)\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|solutionrelative:assignment-3(project)\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\assignment-3(project)\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|solutionrelative:assignment-3(project)\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\assignment-3(project)\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|solutionrelative:assignment-3(project)\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\assignment-3(project)\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8960DADF-7264-4855-9F04-0B8043F8B4B9}|Assignment-3(Project)\\Assignment-3(Project).csproj|solutionrelative:assignment-3(project)\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SplashForm.cs",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Lab-Project\\Lab-Project\\SplashForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\Lab-Project\\Lab-Project\\SplashForm.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Lab-Project\\Lab-Project\\SplashForm.cs",
+              "RelativeToolTip": "..\\..\\Lab-Project\\Lab-Project\\SplashForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T12:18:46.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment-3(Project)\\Form1.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\Form1.cs",
+              "RelativeToolTip": "Assignment-3(Project)\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T04:56:59.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-08T09:21:08.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "Assignment-3(Project)\\DepartmentForm.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\DepartmentForm.cs [Design]",
+              "RelativeToolTip": "Assignment-3(Project)\\DepartmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:20:12.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "Assignment-3(Project)\\DepartmentForm.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\DepartmentForm.cs",
+              "RelativeToolTip": "Assignment-3(Project)\\DepartmentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:46:25.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment-3(Project)\\Form1.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\Form1.cs [Design]",
+              "RelativeToolTip": "Assignment-3(Project)\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T04:18:25.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\CourseForm.cs",
+              "RelativeDocumentMoniker": "Assignment-3(Project)\\CourseForm.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\CourseForm.cs",
+              "RelativeToolTip": "Assignment-3(Project)\\CourseForm.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAawDoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:23:13.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherForm.cs",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "Assignment-3(Project)\\TeacherForm.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\TeacherForm.cs",
+              "RelativeToolTip": "Assignment-3(Project)\\TeacherForm.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADgv20AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:03:22.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\CourseForm.cs",
+              "RelativeDocumentMoniker": "Assignment-3(Project)\\CourseForm.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\CourseForm.cs [Design]",
+              "RelativeToolTip": "Assignment-3(Project)\\CourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T04:51:02.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeacherForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "Assignment-3(Project)\\TeacherForm.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\Assignments\\Assignment-3(Project)\\Assignment-3(Project)\\TeacherForm.cs [Design]",
+              "RelativeToolTip": "Assignment-3(Project)\\TeacherForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T04:50:05.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

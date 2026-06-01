@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\WF-4-MultithreadedApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C187B7-BE56-49E2-86AB-D031DF12204B}|WF-4-MultithreadedApps\\WF-4-MultithreadedApps.csproj|c:\\users\\hec\\documents\\6th semester\\ap\\labs\\wf-4-multithreadedapps\\wf-4-multithreadedapps\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7C187B7-BE56-49E2-86AB-D031DF12204B}|WF-4-MultithreadedApps\\WF-4-MultithreadedApps.csproj|solutionrelative:wf-4-multithreadedapps\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C187B7-BE56-49E2-86AB-D031DF12204B}|WF-4-MultithreadedApps\\WF-4-MultithreadedApps.csproj|c:\\users\\hec\\documents\\6th semester\\ap\\labs\\wf-4-multithreadedapps\\wf-4-multithreadedapps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7C187B7-BE56-49E2-86AB-D031DF12204B}|WF-4-MultithreadedApps\\WF-4-MultithreadedApps.csproj|solutionrelative:wf-4-multithreadedapps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C187B7-BE56-49E2-86AB-D031DF12204B}|WF-4-MultithreadedApps\\WF-4-MultithreadedApps.csproj|c:\\users\\hec\\documents\\6th semester\\ap\\labs\\wf-4-multithreadedapps\\wf-4-multithreadedapps\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C187B7-BE56-49E2-86AB-D031DF12204B}|WF-4-MultithreadedApps\\WF-4-MultithreadedApps.csproj|solutionrelative:wf-4-multithreadedapps\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C187B7-BE56-49E2-86AB-D031DF12204B}|WF-4-MultithreadedApps\\WF-4-MultithreadedApps.csproj|c:\\users\\hec\\documents\\6th semester\\ap\\labs\\wf-4-multithreadedapps\\wf-4-multithreadedapps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C187B7-BE56-49E2-86AB-D031DF12204B}|WF-4-MultithreadedApps\\WF-4-MultithreadedApps.csproj|solutionrelative:wf-4-multithreadedapps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\WF-4-MultithreadedApps\\WF-4-MultithreadedApps\\Form2.cs",
+              "RelativeDocumentMoniker": "WF-4-MultithreadedApps\\Form2.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\WF-4-MultithreadedApps\\WF-4-MultithreadedApps\\Form2.cs",
+              "RelativeToolTip": "WF-4-MultithreadedApps\\Form2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T15:01:15.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\WF-4-MultithreadedApps\\WF-4-MultithreadedApps\\Form2.cs",
+              "RelativeDocumentMoniker": "WF-4-MultithreadedApps\\Form2.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\WF-4-MultithreadedApps\\WF-4-MultithreadedApps\\Form2.cs [Design]",
+              "RelativeToolTip": "WF-4-MultithreadedApps\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T15:00:30.815Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\WF-4-MultithreadedApps\\WF-4-MultithreadedApps\\Form1.cs",
+              "RelativeDocumentMoniker": "WF-4-MultithreadedApps\\Form1.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\WF-4-MultithreadedApps\\WF-4-MultithreadedApps\\Form1.cs",
+              "RelativeToolTip": "WF-4-MultithreadedApps\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAApwB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:58:49.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\WF-4-MultithreadedApps\\WF-4-MultithreadedApps\\Form1.cs",
+              "RelativeDocumentMoniker": "WF-4-MultithreadedApps\\Form1.cs",
+              "ToolTip": "C:\\Users\\HEC\\Documents\\6th Semester\\AP\\Labs\\WF-4-MultithreadedApps\\WF-4-MultithreadedApps\\Form1.cs [Design]",
+              "RelativeToolTip": "WF-4-MultithreadedApps\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:51:12.104Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

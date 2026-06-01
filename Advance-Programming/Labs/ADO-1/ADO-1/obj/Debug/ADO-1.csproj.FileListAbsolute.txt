@@ -1,0 +1,10 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\ADO-1\ADO-1\bin\Debug\ADO-1.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\ADO-1\ADO-1\bin\Debug\ADO-1.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\ADO-1\ADO-1\bin\Debug\ADO-1.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\ADO-1\ADO-1\obj\Debug\ADO-1.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\ADO-1\ADO-1\obj\Debug\ADO_1.Form1.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\ADO-1\ADO-1\obj\Debug\ADO_1.Properties.Resources.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\ADO-1\ADO-1\obj\Debug\ADO-1.csproj.GenerateResource.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\ADO-1\ADO-1\obj\Debug\ADO-1.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\ADO-1\ADO-1\obj\Debug\ADO-1.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\ADO-1\ADO-1\obj\Debug\ADO-1.pdb

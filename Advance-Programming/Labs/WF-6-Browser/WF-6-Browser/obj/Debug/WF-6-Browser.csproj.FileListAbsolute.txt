@@ -1,0 +1,10 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-6-Browser\WF-6-Browser\bin\Debug\WF-6-Browser.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-6-Browser\WF-6-Browser\bin\Debug\WF-6-Browser.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-6-Browser\WF-6-Browser\bin\Debug\WF-6-Browser.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-6-Browser\WF-6-Browser\obj\Debug\WF-6-Browser.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-6-Browser\WF-6-Browser\obj\Debug\WF_6_Browser.Form1.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-6-Browser\WF-6-Browser\obj\Debug\WF_6_Browser.Properties.Resources.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-6-Browser\WF-6-Browser\obj\Debug\WF-6-Browser.csproj.GenerateResource.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-6-Browser\WF-6-Browser\obj\Debug\WF-6-Browser.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-6-Browser\WF-6-Browser\obj\Debug\WF-6-Browser.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-6-Browser\WF-6-Browser\obj\Debug\WF-6-Browser.pdb

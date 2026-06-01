@@ -1,0 +1,7 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\2-LINQ\2-LINQ\obj\Debug\2-LINQ.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\2-LINQ\2-LINQ\obj\Debug\2-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\2-LINQ\2-LINQ\bin\Debug\2-LINQ.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\2-LINQ\2-LINQ\bin\Debug\2-LINQ.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\2-LINQ\2-LINQ\bin\Debug\2-LINQ.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\2-LINQ\2-LINQ\obj\Debug\2-LINQ.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\2-LINQ\2-LINQ\obj\Debug\2-LINQ.pdb

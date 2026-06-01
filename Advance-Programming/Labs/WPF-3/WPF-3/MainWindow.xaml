@@ -1,0 +1,27 @@
+﻿<Window x:Class="WPF_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="5,0,0,0">
+            <!--<StackPanel only ensure no overlapping it doest ensure cosecutivity-->
+            <TextBox x:Name ="txtName"/>
+            <Button x:Name="btnadd" Content="Add Name" Margin="0,10,0,0"/>
+            
+            <!--Textblock and Label does the same thing then why we use both? we use textblock for customization and label was old and still it has not been remove by developers-->
+            <TextBlock>My Text Block</TextBlock>
+            <Label>My Label</Label>
+            
+            <!--Lab Task-->
+            <TextBox x:Name="txtName1" Text=""/>
+            <ListBox x:Name="lstBx"/>
+            <Button x:Name="btnAdd1" Margin="0,5,0,0" Click="ButtonToAdd">Add Name-1</Button> <!--Add-->
+            <Button x:Name="btnRemove" Margin="0,5,0,0" Click="ButtonToRemove">Remove Name-1</Button> <!--Remove-->
+            <Button x:Name="btnClear" Margin="0,5,0,0" Click="ButtonToClear">Clear Name-1</Button> <!--Clear-->
+        </StackPanel> <!--We can't use multiple different container on single form although we can use multiple container of same type-->
+    </Grid>
+</Window>

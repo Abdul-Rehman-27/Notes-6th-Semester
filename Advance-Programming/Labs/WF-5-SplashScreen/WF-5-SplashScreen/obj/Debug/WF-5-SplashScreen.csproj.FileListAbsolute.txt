@@ -1,0 +1,11 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-5-SplashScreen\WF-5-SplashScreen\bin\Debug\WF-5-SplashScreen.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-5-SplashScreen\WF-5-SplashScreen\bin\Debug\WF-5-SplashScreen.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-5-SplashScreen\WF-5-SplashScreen\bin\Debug\WF-5-SplashScreen.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-5-SplashScreen\WF-5-SplashScreen\obj\Debug\WF-5-SplashScreen.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-5-SplashScreen\WF-5-SplashScreen\obj\Debug\WF_5_SplashScreen.Properties.Resources.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-5-SplashScreen\WF-5-SplashScreen\obj\Debug\WF_5_SplashScreen.SplashScreen.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-5-SplashScreen\WF-5-SplashScreen\obj\Debug\WF-5-SplashScreen.csproj.GenerateResource.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-5-SplashScreen\WF-5-SplashScreen\obj\Debug\WF-5-SplashScreen.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-5-SplashScreen\WF-5-SplashScreen\obj\Debug\WF-5-SplashScreen.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-5-SplashScreen\WF-5-SplashScreen\obj\Debug\WF-5-SplashScreen.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-5-SplashScreen\WF-5-SplashScreen\obj\Debug\WF_5_SplashScreen.Form1.resources

@@ -1,0 +1,10 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-3-CheckBoxes-RadioBtn\WF-3-CheckBoxes-RadioBtn\bin\Debug\WF-3-CheckBoxes-RadioBtn.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-3-CheckBoxes-RadioBtn\WF-3-CheckBoxes-RadioBtn\bin\Debug\WF-3-CheckBoxes-RadioBtn.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-3-CheckBoxes-RadioBtn\WF-3-CheckBoxes-RadioBtn\bin\Debug\WF-3-CheckBoxes-RadioBtn.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-3-CheckBoxes-RadioBtn\WF-3-CheckBoxes-RadioBtn\obj\Debug\WF-3-CheckBoxes-RadioBtn.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-3-CheckBoxes-RadioBtn\WF-3-CheckBoxes-RadioBtn\obj\Debug\WF_3_CheckBoxes_RadioBtn.Form1.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-3-CheckBoxes-RadioBtn\WF-3-CheckBoxes-RadioBtn\obj\Debug\WF_3_CheckBoxes_RadioBtn.Properties.Resources.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-3-CheckBoxes-RadioBtn\WF-3-CheckBoxes-RadioBtn\obj\Debug\WF-3-CheckBoxes-RadioBtn.csproj.GenerateResource.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-3-CheckBoxes-RadioBtn\WF-3-CheckBoxes-RadioBtn\obj\Debug\WF-3-CheckBoxes-RadioBtn.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-3-CheckBoxes-RadioBtn\WF-3-CheckBoxes-RadioBtn\obj\Debug\WF-3-CheckBoxes-RadioBtn.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-3-CheckBoxes-RadioBtn\WF-3-CheckBoxes-RadioBtn\obj\Debug\WF-3-CheckBoxes-RadioBtn.pdb

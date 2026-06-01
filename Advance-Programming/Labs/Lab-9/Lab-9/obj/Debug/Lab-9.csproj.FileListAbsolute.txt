@@ -1,0 +1,7 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-9\Lab-9\bin\Debug\Lab-9.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-9\Lab-9\bin\Debug\Lab-9.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-9\Lab-9\bin\Debug\Lab-9.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-9\Lab-9\obj\Debug\Lab-9.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-9\Lab-9\obj\Debug\Lab-9.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-9\Lab-9\obj\Debug\Lab-9.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-9\Lab-9\obj\Debug\Lab-9.pdb

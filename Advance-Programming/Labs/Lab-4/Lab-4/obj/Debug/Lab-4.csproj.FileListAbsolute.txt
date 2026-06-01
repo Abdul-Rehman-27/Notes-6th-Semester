@@ -1,0 +1,7 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-4\Lab-4\bin\Debug\Lab-4.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-4\Lab-4\bin\Debug\Lab-4.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-4\Lab-4\bin\Debug\Lab-4.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-4\Lab-4\obj\Debug\Lab-4.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-4\Lab-4\obj\Debug\Lab-4.pdb

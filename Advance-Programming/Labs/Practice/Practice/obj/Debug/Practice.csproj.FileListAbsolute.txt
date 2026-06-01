@@ -1,0 +1,7 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Practice\Practice\obj\Debug\Practice.pdb

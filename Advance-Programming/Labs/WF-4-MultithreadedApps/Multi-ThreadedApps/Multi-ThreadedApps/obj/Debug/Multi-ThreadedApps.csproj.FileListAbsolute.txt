@@ -1,0 +1,10 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\Multi-ThreadedApps\Multi-ThreadedApps\bin\Debug\Multi-ThreadedApps.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\Multi-ThreadedApps\Multi-ThreadedApps\bin\Debug\Multi-ThreadedApps.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\Multi-ThreadedApps\Multi-ThreadedApps\bin\Debug\Multi-ThreadedApps.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\Multi-ThreadedApps\Multi-ThreadedApps\obj\Debug\Multi-ThreadedApps.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\Multi-ThreadedApps\Multi-ThreadedApps\obj\Debug\Multi_ThreadedApps.Form1.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\Multi-ThreadedApps\Multi-ThreadedApps\obj\Debug\Multi_ThreadedApps.Properties.Resources.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\Multi-ThreadedApps\Multi-ThreadedApps\obj\Debug\Multi-ThreadedApps.csproj.GenerateResource.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\Multi-ThreadedApps\Multi-ThreadedApps\obj\Debug\Multi-ThreadedApps.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\Multi-ThreadedApps\Multi-ThreadedApps\obj\Debug\Multi-ThreadedApps.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\Multi-ThreadedApps\Multi-ThreadedApps\obj\Debug\Multi-ThreadedApps.pdb

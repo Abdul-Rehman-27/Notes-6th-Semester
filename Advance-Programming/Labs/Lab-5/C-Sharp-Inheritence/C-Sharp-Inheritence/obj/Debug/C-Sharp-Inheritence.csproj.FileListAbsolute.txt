@@ -1,0 +1,7 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-5\C-Sharp-Inheritence\C-Sharp-Inheritence\bin\Debug\C-Sharp-Inheritence.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-5\C-Sharp-Inheritence\C-Sharp-Inheritence\bin\Debug\C-Sharp-Inheritence.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-5\C-Sharp-Inheritence\C-Sharp-Inheritence\bin\Debug\C-Sharp-Inheritence.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-5\C-Sharp-Inheritence\C-Sharp-Inheritence\obj\Debug\C-Sharp-Inheritence.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-5\C-Sharp-Inheritence\C-Sharp-Inheritence\obj\Debug\C-Sharp-Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-5\C-Sharp-Inheritence\C-Sharp-Inheritence\obj\Debug\C-Sharp-Inheritence.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-5\C-Sharp-Inheritence\C-Sharp-Inheritence\obj\Debug\C-Sharp-Inheritence.pdb

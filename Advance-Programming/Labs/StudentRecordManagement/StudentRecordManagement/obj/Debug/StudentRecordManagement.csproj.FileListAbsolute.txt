@@ -1,0 +1,15 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\bin\Debug\StudentRecordManagement.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\bin\Debug\StudentRecordManagement.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\bin\Debug\StudentRecordManagement.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\obj\Debug\StudentRecordManagement.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\obj\Debug\StudentRecordManagement.LoginForm.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\obj\Debug\StudentRecordManagement.MainForm.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\obj\Debug\StudentRecordManagement.Properties.Resources.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\obj\Debug\StudentRecordManagement.SignUpForm.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\obj\Debug\StudentRecordManagement.SplashScreen.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\obj\Debug\StudentRecordManagement.csproj.GenerateResource.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\obj\Debug\StudentRecordManagement.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\obj\Debug\StudentRecordManagement.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\obj\Debug\StudentRecordManagement.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\bin\Debug\StudentDB.mdf
+C:\Users\HEC\Documents\6th Semester\AP\Labs\StudentRecordManagement\StudentRecordManagement\bin\Debug\StudentDB_log.ldf

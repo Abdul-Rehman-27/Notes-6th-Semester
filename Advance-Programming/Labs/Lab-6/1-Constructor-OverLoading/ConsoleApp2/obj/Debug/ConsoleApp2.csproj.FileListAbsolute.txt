@@ -1,0 +1,7 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-6\1-Constructor-OverLoading\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-6\1-Constructor-OverLoading\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-6\1-Constructor-OverLoading\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-6\1-Constructor-OverLoading\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-6\1-Constructor-OverLoading\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-6\1-Constructor-OverLoading\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-6\1-Constructor-OverLoading\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

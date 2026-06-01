@@ -1,0 +1,10 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-2\FeedbackForm\FeedbackForm\bin\Debug\FeedbackForm.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-2\FeedbackForm\FeedbackForm\bin\Debug\FeedbackForm.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-2\FeedbackForm\FeedbackForm\bin\Debug\FeedbackForm.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-2\FeedbackForm\FeedbackForm\obj\Debug\FeedbackForm.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-2\FeedbackForm\FeedbackForm\obj\Debug\FeedbackForm.Form1.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-2\FeedbackForm\FeedbackForm\obj\Debug\FeedbackForm.Properties.Resources.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-2\FeedbackForm\FeedbackForm\obj\Debug\FeedbackForm.csproj.GenerateResource.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-2\FeedbackForm\FeedbackForm\obj\Debug\FeedbackForm.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-2\FeedbackForm\FeedbackForm\obj\Debug\FeedbackForm.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-2\FeedbackForm\FeedbackForm\obj\Debug\FeedbackForm.pdb

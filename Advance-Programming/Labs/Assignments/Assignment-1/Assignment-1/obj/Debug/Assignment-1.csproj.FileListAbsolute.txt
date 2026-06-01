@@ -1,0 +1,7 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-1\Assignment-1\bin\Debug\Assignment-1.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-1\Assignment-1\bin\Debug\Assignment-1.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-1\Assignment-1\bin\Debug\Assignment-1.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-1\Assignment-1\obj\Debug\Assignment-1.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-1\Assignment-1\obj\Debug\Assignment-1.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-1\Assignment-1\obj\Debug\Assignment-1.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-1\Assignment-1\obj\Debug\Assignment-1.pdb

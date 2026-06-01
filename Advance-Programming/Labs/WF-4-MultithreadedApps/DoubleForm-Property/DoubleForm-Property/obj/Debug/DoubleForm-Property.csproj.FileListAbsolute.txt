@@ -1,0 +1,10 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\DoubleForm-Property\DoubleForm-Property\bin\Debug\DoubleForm-Property.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\DoubleForm-Property\DoubleForm-Property\bin\Debug\DoubleForm-Property.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\DoubleForm-Property\DoubleForm-Property\bin\Debug\DoubleForm-Property.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\DoubleForm-Property\DoubleForm-Property\obj\Debug\DoubleForm-Property.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\DoubleForm-Property\DoubleForm-Property\obj\Debug\DoubleForm_Property.Form1.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\DoubleForm-Property\DoubleForm-Property\obj\Debug\DoubleForm_Property.Properties.Resources.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\DoubleForm-Property\DoubleForm-Property\obj\Debug\DoubleForm-Property.csproj.GenerateResource.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\DoubleForm-Property\DoubleForm-Property\obj\Debug\DoubleForm-Property.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\DoubleForm-Property\DoubleForm-Property\obj\Debug\DoubleForm-Property.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\WF-4-MultithreadedApps\DoubleForm-Property\DoubleForm-Property\obj\Debug\DoubleForm-Property.pdb

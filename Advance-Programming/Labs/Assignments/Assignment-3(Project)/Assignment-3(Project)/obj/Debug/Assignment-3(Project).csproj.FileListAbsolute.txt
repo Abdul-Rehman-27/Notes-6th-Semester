@@ -1,0 +1,13 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\bin\Debug\Assignment-3(Project).exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\bin\Debug\Assignment-3(Project).exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\bin\Debug\Assignment-3(Project).pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\obj\Debug\Assignment-3(Project).csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\obj\Debug\Assignment_3_Project_.Form1.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\obj\Debug\Assignment_3_Project_.Properties.Resources.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\obj\Debug\Assignment_3_Project_.TeacherForm.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\obj\Debug\Assignment-3(Project).csproj.GenerateResource.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\obj\Debug\Assignment-3(Project).csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\obj\Debug\Assignment-3(Project).exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\obj\Debug\Assignment-3(Project).pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\obj\Debug\Assignment_3_Project_.CourseForm.resources
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Assignments\Assignment-3(Project)\Assignment-3(Project)\obj\Debug\Assignment_3_Project_.DepartmentForm.resources

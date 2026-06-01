@@ -1,0 +1,14 @@
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\bin\Debug\Lab-2.exe.config
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\bin\Debug\Lab-2.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\bin\Debug\Lab-2.pdb
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\obj\Debug\Lab-2.csproj.AssemblyReference.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\obj\Debug\Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\obj\Debug\Lab-2.exe
+C:\Users\HEC\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\obj\Debug\Lab-2.pdb
+C:\Users\Abdul Rehman\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\bin\Debug\Lab-2.exe.config
+C:\Users\Abdul Rehman\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\bin\Debug\Lab-2.exe
+C:\Users\Abdul Rehman\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\bin\Debug\Lab-2.pdb
+C:\Users\Abdul Rehman\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\obj\Debug\Lab-2.csproj.AssemblyReference.cache
+C:\Users\Abdul Rehman\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\obj\Debug\Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Rehman\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\obj\Debug\Lab-2.exe
+C:\Users\Abdul Rehman\Documents\6th Semester\AP\Labs\Lab-2\Lab-2\obj\Debug\Lab-2.pdb
