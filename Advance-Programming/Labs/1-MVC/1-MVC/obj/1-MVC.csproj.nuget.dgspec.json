@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdul Rehman\\Documents\\6th Semester\\AP\\Labs\\1-MVC\\1-MVC\\1-MVC.csproj": {}
+    "C:\\Users\\Abdul Rehman\\Documents\\6th Semester\\Notes\\Advance-Programming\\Labs\\1-MVC\\1-MVC\\1-MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdul Rehman\\Documents\\6th Semester\\AP\\Labs\\1-MVC\\1-MVC\\1-MVC.csproj": {
+    "C:\\Users\\Abdul Rehman\\Documents\\6th Semester\\Notes\\Advance-Programming\\Labs\\1-MVC\\1-MVC\\1-MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdul Rehman\\Documents\\6th Semester\\AP\\Labs\\1-MVC\\1-MVC\\1-MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Abdul Rehman\\Documents\\6th Semester\\Notes\\Advance-Programming\\Labs\\1-MVC\\1-MVC\\1-MVC.csproj",
         "projectName": "1-MVC",
-        "projectPath": "C:\\Users\\Abdul Rehman\\Documents\\6th Semester\\AP\\Labs\\1-MVC\\1-MVC\\1-MVC.csproj",
+        "projectPath": "C:\\Users\\Abdul Rehman\\Documents\\6th Semester\\Notes\\Advance-Programming\\Labs\\1-MVC\\1-MVC\\1-MVC.csproj",
         "packagesPath": "C:\\Users\\Abdul Rehman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdul Rehman\\Documents\\6th Semester\\AP\\Labs\\1-MVC\\1-MVC\\obj\\",
+        "outputPath": "C:\\Users\\Abdul Rehman\\Documents\\6th Semester\\Notes\\Advance-Programming\\Labs\\1-MVC\\1-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
